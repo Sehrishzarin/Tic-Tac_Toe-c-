@@ -29,7 +29,7 @@ int main()
     cout << "  " << space[2][0] << "   | " << space[2][1] << "  |   " << space[2][2] << endl;
     cout << "      |    |      \n" << endl;
     cout << "      |    |      \n" << endl;
-
+    //
 
     
 }
